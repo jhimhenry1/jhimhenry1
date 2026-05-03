@@ -1,9 +1,9 @@
 # Hello, I'm Jhimani
 <a href="https://www.linkedin.com/in/jhimani-henry"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+Introduction
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate and aspiring security professionsal who pays attention to detail and would eagerly apply analytical thinking to a SOC role.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
